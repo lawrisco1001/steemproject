@@ -13,6 +13,7 @@
                                     <li><a href="/users/curation" title="menu item">Curation</a></li>
                                     <li><a href="/users/placement" title="menu item">Placement Lot</a></li>
                                     <li><a href="/users/ranks" title="menu item">Ranks</a></li>
+                                    <li><a href="/users/request" title="menu item">Request</a></li>
                                     <li><a href="#" title="menu item">Setting</a></li>
                                     <li><a href="#" title="menu item">Log Out</a></li>
                                 </ul>

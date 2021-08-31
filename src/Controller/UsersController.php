@@ -43,6 +43,12 @@ class UsersController extends AppController
 
    }
 
+   public function request(){
+
+    $this->viewBuilder()->setLayout('/users/layout');
+
+   }
+
    public function placement(){
 
     $this->viewBuilder()->setLayout('/users/layout');

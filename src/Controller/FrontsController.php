@@ -39,140 +39,50 @@ class FrontsController extends AppController
 
    public function success(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
     public function login(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
     public function memberConfirmation(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
    public function allDownloads(){
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
    public function softwares(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
    public function contact(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
     public function register(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
    public function registrationSuccessful(){
 
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
+    $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
-   public function prayerRequest(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-    public function eventsDirections(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function coreValues(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-     public function whatToExpect(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function praiseReport(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function membership(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function books(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function live(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function videosOnDemand(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-    public function departments(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function ourProphet(){
-
-    $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-
-   }
-
-   public function whatWeBelieve()
-    {
-      $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-    }
-
-    public function departmentSignup()
-    {
-      $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-    }
-
-    public function ourHistory()
-    {
-      $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-    }
-
-    public function getInvolved()
-    {
-      $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-    }
-
-    public function devotionals()
-    {
-      $this->viewBuilder()->setLayout('/fronts/fronts_layout');
-    }
        
 }

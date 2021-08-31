@@ -26,7 +26,7 @@
                         
                         	<div class="col-lg-12 col-md-12">
                     
-                            	<h1 class="page-title">My Curated Posts</h1><!-- category title -->
+                            	<h1 class="page-title">Curation Request</h1><!-- category title -->
                             
                             </div>
                         
