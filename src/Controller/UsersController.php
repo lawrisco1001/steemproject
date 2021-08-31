@@ -66,5 +66,23 @@ class UsersController extends AppController
     $this->viewBuilder()->setLayout('/users/layout');
 
    }
+
+    public function register(){
+
+    $this->viewBuilder()->setLayout('/users/layout');
+
+   }
+
+   public function registrationSuccessful(){
+
+    $this->viewBuilder()->setLayout('/users/layout');
+
+   }
+
+    public function login(){
+
+    $this->viewBuilder()->setLayout('/general/layout');
+
+   }
        
 }

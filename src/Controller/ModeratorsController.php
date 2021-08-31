@@ -43,13 +43,13 @@ class ModeratorsController extends AppController
 
    }
 
-   public function request(){
+   public function placementLot(){
 
     $this->viewBuilder()->setLayout('/moderators/layout');
 
    }
 
-   public function placement(){
+   public function upgradeRequest(){
 
     $this->viewBuilder()->setLayout('/moderators/layout');
 

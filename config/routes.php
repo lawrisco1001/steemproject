@@ -54,12 +54,12 @@ $routes->scope('/', function (RouteBuilder $builder) {
     $builder->connect('/', ['controller' => 'Fronts', 'action' => 'home']);
     $builder->connect('/about', ['controller' => 'Fronts', 'action' => 'about']);
     $builder->connect('/contact', ['controller' => 'Fronts', 'action' => 'contact']);
-    $builder->connect('/login', ['controller' => 'Fronts', 'action' => 'login']);
+    $builder->connect('/login', ['controller' => 'Users', 'action' => 'login']);
     $builder->connect('/guidelines', ['controller' => 'Fronts', 'action' => 'guidelines']);
     $builder->connect('/resources', ['controller' => 'Fronts', 'action' => 'resources']);
-    $builder->connect('/register', ['controller' => 'Fronts', 'action' => 'register']);
+    $builder->connect('/register', ['controller' => 'Users', 'action' => 'register']);
     $builder->connect('/faq', ['controller' => 'Fronts', 'action' => 'faq']);
-    $builder->connect('/registration_successful', ['controller' => 'Fronts', 'action' => 'registration_successful']);
+    $builder->connect('/registration_successful', ['controller' => 'Users', 'action' => 'registration_successful']);
 
 
     /*

@@ -9,18 +9,17 @@
                                 <h1 class="title-widget">Menu</h1>
                                 
                                 <ul>
-                                    <li><a href="/users/dashboard" title="menu item">Dashboard</a></li>
-                                    <li><a href="/users/curation_request" title="menu item">Curation Request</a></li>
-                                    <li><a href="/users/placement" title="menu item">Placement Lot</a></li>
-                                    <li><a href="/users/ranks" title="menu item">Ranks</a></li>
+                                    <li><a href="/moderators/dashboard" title="menu item">Dashboard</a></li>
+                                    <li><a href="/moderators/curation_request" title="menu item">Curation Request</a></li>
+                                    <li><a href="/moderators/placement_lot" title="menu item">Placement Lot</a></li>
+                                    <li><a href="/moderators/upgrade_request" title="menu item">Upgrade Requests</a></li>
                                     <li><a href="/users/request" title="menu item">Request (2)</a></li>
                                     <li><a href="/users/setting" title="menu item">Setting</a></li>
+                                    <li><a href="/users/ranks" title="menu item">Ranks</a></li>
                                     <li><a href="#" title="menu item">Log Out</a></li>
                                 </ul>
                     
                             </li>
-                            
-                            
                             <?php
                                 echo $this->element('side');
                             ?>
