@@ -8,10 +8,10 @@
                             <a href="/register" title="Sign Up For An Account">Create Account</a>
                         </li>
                         <li>
-                            <a href="/softwares" title="Download Softwares">Resources</a>
+                            <a href="/resources" title="Download Softwares">Resources</a>
                         </li>
                         <li>
-                            <a href="/all_downloads" class="Pages Collection" title="Access Full Uploads">Blog</a>
+                            <a href="/guidelines" class="Pages Collection" title="Access Full Uploads">Guidelines</a>
                         </li>
                         <li>
                             <a href="/faq" title="Having Issues?">FAQ</a>

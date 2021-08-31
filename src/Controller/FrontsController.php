@@ -55,12 +55,17 @@ class FrontsController extends AppController
 
    }
 
-   public function allDownloads(){
+   public function guidelines(){
     $this->viewBuilder()->setLayout('/general/layout');
 
    }
 
-   public function softwares(){
+   public function faq(){
+    $this->viewBuilder()->setLayout('/general/layout');
+
+   }
+
+   public function resources(){
 
     $this->viewBuilder()->setLayout('/general/layout');
 

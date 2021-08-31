@@ -55,9 +55,10 @@ $routes->scope('/', function (RouteBuilder $builder) {
     $builder->connect('/about', ['controller' => 'Fronts', 'action' => 'about']);
     $builder->connect('/contact', ['controller' => 'Fronts', 'action' => 'contact']);
     $builder->connect('/login', ['controller' => 'Fronts', 'action' => 'login']);
-    $builder->connect('/all_downloads', ['controller' => 'Fronts', 'action' => 'all_downloads']);
-    $builder->connect('/softwares', ['controller' => 'Fronts', 'action' => 'softwares']);
+    $builder->connect('/guidelines', ['controller' => 'Fronts', 'action' => 'guidelines']);
+    $builder->connect('/resources', ['controller' => 'Fronts', 'action' => 'resources']);
     $builder->connect('/register', ['controller' => 'Fronts', 'action' => 'register']);
+    $builder->connect('/faq', ['controller' => 'Fronts', 'action' => 'faq']);
     $builder->connect('/registration_successful', ['controller' => 'Fronts', 'action' => 'registration_successful']);
 
 
