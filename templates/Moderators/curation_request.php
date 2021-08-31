@@ -41,84 +41,32 @@
                                     <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
                                     
                                     <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Jul 25, 2021</div><div class="up-event-date">Timer: 35Mins Left</div><div class="up-event-date">Username: <a href="">@lawrisco1001</a></div>
+                                        <div class="up-event-date">Jul 25, 2021</div><div class="up-event-date">Timer: NA</div><div class="up-event-date">Username: <a href="">@lawrisco1001</a></div><div class="up-event-date">PL Lot: <a href="">#45466</a></div><div class="up-event-date">CU Lot: <a href="">#454986</a></div><div class="up-event-date">ID <a href="">#454986</a></div>
                                     </div>
                                     
                                     <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... 
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus.
                                     <div class="up-event-meta clearfix">
                                         <div class="up-event-date"><a href="#" class="moretag" title="read more">Approve</a></div><div class="up-event-date"><a href="#" class="moretag" title="read more">Decline</a></div>
+                                        <div class="up-event-date">Status: Active</div>
                                     </div>
                                     </p>
                                 
                                 </div><!-- event summary end -->
-
-                                <div class="up-event-wrapper"><!-- event summary -->
+								<div class="up-event-wrapper"><!-- event summary -->
                                 
                                     <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
                                     
                                     <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date Posted: Jul 25, 2021</div><div class="up-event-date">Count Down: 35Mins Left</div><div class="up-event-date"><a href="#" class="moretag" title="read more">Curate Post</a></div>
+                                        <div class="up-event-date">Jul 25, 2021</div><div class="up-event-date">Timer: NA</div><div class="up-event-date">Username: <a href="">@lawrisco1001</a></div><div class="up-event-date">PL Lot: <a href="">#45466</a></div><div class="up-event-date">CU Lot: <a href="">#454986</a></div><div class="up-event-date">ID <a href="">#454986</a></div>
                                     </div>
                                     
                                     <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
-                                    </p>
-                                
-                                </div><!-- event summary end -->
-
-                                <div class="up-event-wrapper"><!-- event summary -->
-                                
-                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
-                                    
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus.
                                     <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date Posted: Jul 25, 2021</div><div class="up-event-date">Count Down: 35Mins Left</div><div class="up-event-date"><a href="#" class="moretag" title="read more">Curate Post</a></div>
+                                        <div class="up-event-date"><a href="#" class="moretag" title="read more">Approve</a></div><div class="up-event-date"><a href="#" class="moretag" title="read more">Decline</a></div>
+                                        <div class="up-event-date">Status: Active</div>
                                     </div>
-                                    
-                                    <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
-                                    </p>
-                                
-                                </div><!-- event summary end -->
-
-                                <div class="up-event-wrapper"><!-- event summary -->
-                                
-                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
-                                    
-                                    <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date Posted: Jul 25, 2021</div><div class="up-event-date">Count Down: 35Mins Left</div><div class="up-event-date"><a href="#" class="moretag" title="read more">Curate Post</a></div>
-                                    </div>
-                                    
-                                    <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
-                                    </p>
-                                
-                                </div><!-- event summary end -->
-
-                                <div class="up-event-wrapper"><!-- event summary -->
-                                
-                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
-                                    
-                                    <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date Posted: Jul 25, 2021</div><div class="up-event-date">Count Down: 35Mins Left</div><div class="up-event-date"><a href="#" class="moretag" title="read more">Curate Post</a></div>
-                                    </div>
-                                    
-                                    <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
-                                    </p>
-                                
-                                </div><!-- event summary end -->
-
-                                <div class="up-event-wrapper"><!-- event summary -->
-                                
-                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
-                                    
-                                    <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date Posted: Jul 25, 2021</div><div class="up-event-date">Count Down: 35Mins Left</div><div class="up-event-date"><a href="#" class="moretag" title="read more">Curate Post</a></div>
-                                    </div>
-                                    
-                                    <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
                                     </p>
                                 
                                 </div><!-- event summary end -->
