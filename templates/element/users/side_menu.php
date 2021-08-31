@@ -14,7 +14,7 @@
                                     <li><a href="/users/placement" title="menu item">Placement Lot</a></li>
                                     <li><a href="/users/ranks" title="menu item">Ranks</a></li>
                                     <li><a href="/users/request" title="menu item">Request (2)</a></li>
-                                    <li><a href="#" title="menu item">Setting</a></li>
+                                    <li><a href="/users/setting" title="menu item">Setting</a></li>
                                     <li><a href="#" title="menu item">Log Out</a></li>
                                 </ul>
                     

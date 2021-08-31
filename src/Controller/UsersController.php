@@ -60,5 +60,11 @@ class UsersController extends AppController
     $this->viewBuilder()->setLayout('/users/layout');
 
    }
+
+   public function setting(){
+
+    $this->viewBuilder()->setLayout('/users/layout');
+
+   }
        
 }
