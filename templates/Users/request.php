@@ -72,34 +72,34 @@
                         </div><!-- row end --> 
                         <hr>
                         <br>
-
                         <div class="row gutter"><!-- row -->
                         
                         	<div class="col-lg-12 col-md-12">
-
-                            <div class="col-lg-12 col-md-12">
-                    
-                            	<h3 class="page-title">Curatied Posts</h3><!-- category title -->
-                            	<div class="k-breadcrumbs col-lg-12 clearfix"><!-- breadcrumbs -->
-                
-                	<ol class="breadcrumb">
-                       	<li><a href="#"><strong> Expired Post: (34)</strong></a></li>
-                       	<li><a href="#"><strong>Active Posts: (10)</strong></a></li>
-                    </ol>
-                    <br>
-                </div><!-- breadcrumbs end --> 
-                            </div>
-                            <br>
+                            <h3 class="page-title">Past Requests</h3><!-- category title -->
                             	<div class="up-event-wrapper"><!-- event summary -->
                                 
                                     <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
                                     
                                     <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div><div class="up-event-date"><i class="custom-button-icon fa fa-check-square-o"></i></div>
-                                      </div>
+                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div>
+                                    </div>
                                     
                                     <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus...
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
+                                    </p>
+                                
+                                </div><!-- event summary end -->
+                                
+                            	<div class="up-event-wrapper"><!-- event summary -->
+                                
+                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
+                                    
+                                    <div class="up-event-meta clearfix">
+                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div>
+                                    </div>
+                                    
+                                    <p>
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
                                     </p>
                                 
                                 </div><!-- event summary end -->
@@ -108,11 +108,39 @@
                                     <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
                                     
                                     <div class="up-event-meta clearfix">
-                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div><div class="up-event-date"><i class="custom-button-icon fa fa-check-square-o"></i></div>
-                                      </div>
+                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div>
+                                    </div>
                                     
                                     <p>
-                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus...
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
+                                    </p>
+                                
+                                </div><!-- event summary end -->
+
+                                <div class="up-event-wrapper"><!-- event summary -->
+                                
+                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
+                                    
+                                    <div class="up-event-meta clearfix">
+                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div>
+                                    </div>
+                                    
+                                    <p>
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
+                                    </p>
+                                
+                                </div><!-- event summary end -->
+
+                                <div class="up-event-wrapper"><!-- event summary -->
+                                
+                                    <h1 class="title-median"><a href="#" title="Annual alumni game">How to make steem a place to be.</a></h1>
+                                    
+                                    <div class="up-event-meta clearfix">
+                                        <div class="up-event-date">Date: Jul 25, 2021</div><div class="up-event-date">Upvots: 20</div><div class="up-event-date">Comments: 21</div><div class="up-event-date">Earnings: $40</div>
+                                    </div>
+                                    
+                                    <p>
+                                    Suspendisse faucibus sem nec dictum tristique. Morbi quis scelerisque ligula. Mauris id nisl eget velit tincidunt congue. Nam vel egestas arcu. Donec pretium rutrum justo eu dapibus... <a href="#" class="moretag" title="read more">MORE</a> 
                                     </p>
                                 
                                 </div><!-- event summary end -->
@@ -121,7 +149,6 @@
                         </div><!-- row end --> 
                         
                         <div class="row gutter"><!-- row -->
-                        
                         	<div class="col-lg-12">
                         
                                 <ul class="pagination pull-right"><!-- pagination -->

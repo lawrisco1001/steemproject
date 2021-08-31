@@ -19,7 +19,7 @@
             	<div class="k-breadcrumbs col-lg-12 clearfix"><!-- breadcrumbs -->
                 
                 	<ol class="breadcrumb">
-                    	<li><a href="index.html">Home</a></li>
+                    	<li><a href="/">Home</a></li>
                         <li class="active">All Downloads</li>
                     </ol>
                     
